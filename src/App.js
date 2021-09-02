@@ -9,7 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello from V2</h1>
       </header>
+        <Game/>
     </div>
+
   );
 }
 class Square extends React.Component {
